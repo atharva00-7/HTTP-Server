@@ -1,0 +1,18 @@
+{
+    "name": "HTTP server in NodeJS",
+    "version": "1.0.0",
+    "description": "Building Server in NodeJS",
+    "main": "main.js",
+    "scripts": {
+        "dev": "node app/main.js"
+    },
+    "keywords": [
+        ""
+    ],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "nodemon": "^3.1.2",
+        "zlib": "^1.0.5"
+    }
+}
