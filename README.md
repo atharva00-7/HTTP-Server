@@ -15,3 +15,15 @@ To set up the project locally, follow these steps:
    ```bash
    git clone https://github.com/atharva00-7/HTTP-Server
 
+2. **Navigate to the project directory:**
+   ```bash
+   cd 
+
+3. **Install the dependencies:**
+   ```bash
+   npm install
+
+4. **Start the development server:**
+   ```bash
+   node index.js
+   
